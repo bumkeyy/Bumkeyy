@@ -1,4 +1,4 @@
-### Hi there 👋
+### Bumkeyy 👋
 
 <!--
 **Bumkeyy/Bumkeyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 Software Engineer at SK Hynix (Jan 2019~)
+- 🚀 Frontend
+- 🎓 B.S. in Computer Science, Hanyang University, Seoul, Korea (FEB 2019)
+- 📝 [Blog](https://bumkeyy.gitbook.io/bumkeyy-code/)
+- ✉️ kgbum2222@gmail.com
