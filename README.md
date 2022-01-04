@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 Software Engineer at Naver Corp. (Aug 2021~)
+- 🔭 Frontend Developer at Naver Corp. (Aug 2021~)
+- 🔭 Software Engineer at SK Hynix. (Jan 2019 ~ Jul 2021)
 - 🚀 Frontend
 - 🎓 B.S. in Computer Science, Hanyang University, Seoul, Korea (FEB 2019)
 - 📝 [Blog](https://bumkeyy.gitbook.io/bumkeyy-code/)
